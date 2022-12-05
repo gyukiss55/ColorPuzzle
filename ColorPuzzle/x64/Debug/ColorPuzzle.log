@@ -1,0 +1,65 @@
+﻿  Recognize.cpp
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(90,26): warning C4267: 'return': conversion from 'size_t' to 'INT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(162,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(163,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(177,26): warning C4267: 'return': conversion from 'size_t' to 'INT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(315,9): warning C4018: '>': signed/unsigned mismatch
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(324,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(366,33): warning C4267: 'initializing': conversion from 'size_t' to 'UINT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(492,32): warning C4267: '+=': conversion from 'size_t' to 'INT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(542,28): warning C4018: '<': signed/unsigned mismatch
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(584,39): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(584,33): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,16): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,16): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,23): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,23): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(612,39): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(612,33): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,16): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,16): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,23): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,23): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  ColorPuzzle.vcxproj -> E:\Work\Project\ColorPuzzle\x64\Debug\ColorPuzzle.exe

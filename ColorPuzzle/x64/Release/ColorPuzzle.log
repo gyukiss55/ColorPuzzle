@@ -1,0 +1,83 @@
+﻿  ColorPuzzle.cpp
+E:\Work\Project\ColorPuzzle\ColorPuzzle\ColorPuzzle.cpp(292,50): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\ColorPuzzle.cpp(292,44): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\ColorPuzzle.cpp(294,22): warning C4244: '=': conversion from 'WPARAM' to 'UINT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\ColorPuzzle.cpp(295,22): warning C4244: '=': conversion from 'WPARAM' to 'UINT32', possible loss of data
+  FIleIO.cpp
+E:\Work\Project\ColorPuzzle\ColorPuzzle\FIleIO.cpp(88,40): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  JPEGTest.cpp
+  Recognize.cpp
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(90,26): warning C4267: 'return': conversion from 'size_t' to 'INT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(162,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(163,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(177,26): warning C4267: 'return': conversion from 'size_t' to 'INT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(315,9): warning C4018: '>': signed/unsigned mismatch
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(324,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(366,33): warning C4267: 'initializing': conversion from 'size_t' to 'UINT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(492,32): warning C4267: '+=': conversion from 'size_t' to 'INT32', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(542,28): warning C4018: '<': signed/unsigned mismatch
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(584,39): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(584,33): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,16): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,16): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,23): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(586,23): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(612,39): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(612,33): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,16): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,16): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,23): warning C4838: conversion from 'WPARAM' to '_Ty' requires a narrowing conversion
+          with
+          [
+              _Ty=int
+          ]
+E:\Work\Project\ColorPuzzle\ColorPuzzle\Recognize.cpp(613,23): warning C4244: 'initializing': conversion from 'WPARAM' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  SolvePuzzle.cpp
+E:\Work\Project\ColorPuzzle\ColorPuzzle\SolvePuzzle.cpp(231,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\SolvePuzzle.cpp(426,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\SolvePuzzle.cpp(542,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Project\ColorPuzzle\ColorPuzzle\SolvePuzzle.cpp(776,36): warning C4477: 'sprintf_s' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'unsigned __int64'
+E:\Work\Project\ColorPuzzle\ColorPuzzle\SolvePuzzle.cpp(776,36): message : consider using '%zd' in the format string
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1233 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ColorPuzzle.vcxproj -> E:\Work\Project\ColorPuzzle\x64\Release\ColorPuzzle.exe
